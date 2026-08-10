@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-bezdep.github.io
+Sitemap: https://reyting-kazino-bezdep.github.io/sitemap.xml
